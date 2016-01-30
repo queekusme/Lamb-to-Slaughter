@@ -1,0 +1,47 @@
+Mono path[0] = 'D:/AAA/LTS/Lamb to Slaughter/Build/Lamb to Slaughter_Data/Managed'
+Mono path[1] = 'D:/AAA/LTS/Lamb to Slaughter/Build/Lamb to Slaughter_Data/Mono'
+Mono config path = 'D:/AAA/LTS/Lamb to Slaughter/Build/Lamb to Slaughter_Data/Mono/etc'
+PlayerConnection initialized from D:/AAA/LTS/Lamb to Slaughter/Build/Lamb to Slaughter_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55150
+Multi-casting "[IP] 192.168.56.1 [Port] 55150 [Flags] 2 [Guid] 1308151151 [EditorId] 793067423 [Version] 1048832 [Id] WindowsPlayer(QueeksPC) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.56.1:55150]
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6450 (ID=0x6779)
+    Vendor:   ATI
+    VRAM:     1011 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\AAA\LTS\Lamb to Slaughter\Build\Lamb to Slaughter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\AAA\LTS\Lamb to Slaughter\Build\Lamb to Slaughter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\AAA\LTS\Lamb to Slaughter\Build\Lamb to Slaughter_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\AAA\LTS\Lamb to Slaughter\Build\Lamb to Slaughter_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\AAA\LTS\Lamb to Slaughter\Build\Lamb to Slaughter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\AAA\LTS\Lamb to Slaughter\Build\Lamb to Slaughter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\AAA\LTS\Lamb to Slaughter\Build\Lamb to Slaughter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\AAA\LTS\Lamb to Slaughter\Build\Lamb to Slaughter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\AAA\LTS\Lamb to Slaughter\Build\Lamb to Slaughter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\AAA\LTS\Lamb to Slaughter\Build\Lamb to Slaughter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\AAA\LTS\Lamb to Slaughter\Build\Lamb to Slaughter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\AAA\LTS\Lamb to Slaughter\Build\Lamb to Slaughter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\AAA\LTS\Lamb to Slaughter\Build\Lamb to Slaughter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\AAA\LTS\Lamb to Slaughter\Build\Lamb to Slaughter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.127 seconds
+Platform assembly: D:\AAA\LTS\Lamb to Slaughter\Build\Lamb to Slaughter_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\AAA\LTS\Lamb to Slaughter\Build\Lamb to Slaughter_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 0.968489 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.629511 ms
+System memory in use before: 39.6 MB.
+System memory in use after: 39.6 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 0.317288 ms (FindLiveObjects: 0.045955 ms CreateObjectMapping: 0.027866 ms MarkObjects: 0.220488 ms  DeleteObjects: 0.015644 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2a58 -> priority: 1 
