@@ -9,6 +9,7 @@ public class Menu : MonoBehaviour {
 
     public GameObject mainMenuHolder;
     public GameObject optionsMenuHolder;
+    public GameObject creditsMenuHolder;
 
     public Slider[] volumeSliders;
     public Toggle[] resolutionToggles;
@@ -47,9 +48,16 @@ public class Menu : MonoBehaviour {
         optionsMenuHolder.SetActive(true);
     }
 
+    public void CreditsMenu()
+    {
+        mainMenuHolder.SetActive(false);
+        creditsMenuHolder.SetActive(true);
+    }
+
     public void MainMenu() {
         mainMenuHolder.SetActive(true);
         optionsMenuHolder.SetActive(false);
+        creditsMenuHolder.SetActive(false);
     }
 
     public void SetScreenResolution(int i) {
